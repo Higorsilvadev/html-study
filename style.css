@@ -11,14 +11,22 @@ h2 {
 
 }
 
-img {
-    width: 300px;
-}
+
 p {
     text-align: center;
     color: black;
     font-size: 30px;
 }
-.jogos  {
-    text-align: center;
+.categoria  {
+    border: 2px solid;
+    padding: 10px;
+    margin: 20px;
+    color: black;
+    text-align: left;
+
+}
+
+
+img {
+    width: 300px;
 }
