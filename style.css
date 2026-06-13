@@ -1,13 +1,9 @@
 
 .titulo {
-    
+ text-align: center;   
 }
 
-p {
-    text-align: center;
-    color: black;
-    font-size: 30px;
-}
+
 .categoria  {
     border: 2px solid;
     padding: 10px;
