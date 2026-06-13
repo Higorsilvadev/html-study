@@ -1,16 +1,7 @@
-h1 {
-    color: red;
-    text-align: center;
 
+.titulo {
+    
 }
-
-h2 {
-    text-align: center;
-    color: blue;
-    font-size: 30px;
-
-}
-
 
 p {
     text-align: center;
@@ -27,6 +18,3 @@ p {
 }
 
 
-img {
-    width: 300px;
-}
